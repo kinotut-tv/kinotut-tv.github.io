@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kinotut-tv.github.io/sitemap.xml
